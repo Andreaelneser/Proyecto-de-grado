@@ -1,6 +1,7 @@
-import wget
+#import wget
 import time
 import random
+
 with open('aorkey.txt') as f:
     lines = f.readlines()
 

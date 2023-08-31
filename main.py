@@ -3,10 +3,7 @@ from astropy.table import Table
 import numpy as np
 import matplotlib.pyplot as plt
 
-
-#for id in list_of_ids
-#num=id
-    num=3540992
+num=3540992
 archivo='cassis_yaaar_spcfw_{}t.fits'.format(num)
 
 print(archivo)

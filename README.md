@@ -1,14 +1,14 @@
 # Proyecto-de-grado
 Clasificador de galaxias usando espectros del telescopio Spitzer para determinar si su distribución energética viene principamente de un AGN o de formación estelar.
 
-El proyecto consiste en un proceso de ETL, limpieza, análisis y redes neuronales para la clasificación.
+El proyecto consiste en un proceso de ELT, limpieza, análisis y redes neuronales para la clasificación.
 
 
 # Aorkey
 Archivo con los ids de todos los astros que se querían analizar.
 
 # Presentación 
-En el archivo PresentacionFinal_AElneser se encuentra la presentación final del proyecto. 
+En el archivo PresentacionFinal_AElneser se encuentra la presentación final del proyecto. En ella hay diagramas de cada código usado (tanto los que se encuentran en este repositorio como los que no), se explica todo el proceso de extracción, carga y transformación, limpiezas, análisis de PCA y el uso del classification learner llevados a cabo en MATLAB.
 
 # Códigos
 

@@ -8,4 +8,4 @@ El proyecto consiste en un proceso de ETL, limpieza, análisis y redes neuronale
 Archivo con los ids de todos los astros que se querían analizar.
 
 # Presentación 
-En el archivo 07_SustFinal_Jueves_AE-T_02062022 se encuentra la presentación final del proyecto.
+En el archivo PresentacionFinal_AElneser se encuentra la presentación final del proyecto. 
